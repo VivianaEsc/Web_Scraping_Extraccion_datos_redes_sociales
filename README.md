@@ -2,7 +2,7 @@
     <img src="https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg" alt="webScrapping logo" title="webScrapping" align="right" height="80" />
 </div>
 
-# Proyecto de Titulación
+# Proyecto WebScraping
 
 ![Licencia](https://poser.pugx.org/aimeos/aimeos-typo3/license.svg)
 
