@@ -8,7 +8,7 @@
 
  
 
-Este es un proyecto de practica profesional en mi camino al analisis de Big Data. Todo la documentación completa se detalla y se especifica en este repositorio el cual existe todo el código realizado. Todo el código fuente es de código libre y puede ser personalizado en cualquier aspecto según tus necesidades.
+Este es un proyecto de practica profesional en mi camino al analisis de Big Data, enfocado en el desarrollo Back-end. Todo la documentación completa se detalla y se especifica en este repositorio el cual existe todo el código realizado. Todo el código fuente es de código libre y puede ser personalizado en cualquier aspecto según tus necesidades.
 
 <!-- ![scrapping-frontend](img/frontend.png) -->
 
